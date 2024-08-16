@@ -3,8 +3,7 @@
   "builds": [
     {
       "src": "frontend",
-      "use": "@vercel/static",
-      "output": "build"
+      "use": "@vercel/static"
     },
     {
       "src": "backend",
